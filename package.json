@@ -1,0 +1,28 @@
+{
+  "name": "stream-buffer",
+  "version": "0.0.0",
+  "description": "Buffer a stream and replay data at any time",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:parshap/node-stream-buffer.git"
+  },
+  "keywords": [
+    "stream",
+    "buffer"
+  ],
+  "author": "Parsha Pourkhomami",
+  "license": "Public Domain",
+  "bugs": {
+    "url": "https://github.com/parshap/node-stream-buffer/issues"
+  },
+  "dependencies": {
+    "through": "~2.3.4"
+  },
+  "devDependencies": {
+    "tape": "~2.0.0"
+  }
+}
