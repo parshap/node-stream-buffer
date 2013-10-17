@@ -1,6 +1,6 @@
 {
   "name": "stream-buffer",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Buffer a stream and replay data at any time",
   "main": "index.js",
   "scripts": {
